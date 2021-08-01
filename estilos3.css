@@ -1,0 +1,122 @@
+#principal{
+    width: 900px;
+    height: auto;
+    border: 0px solid #000;
+    margin: auto;
+}
+header{
+    width: 900px;
+    height: 100px;
+    border:0px solid black;
+}
+#logo{
+    width: 200px;
+    height: 100px;
+    border:0px solid black;
+    float: left;
+}
+.menu{
+    width: 600px;
+    height: 40px;
+    border: 0px solid #ccc;
+    float: right;
+    margin-top: 40px;
+    background: #006699;
+}
+.menu ul li{
+    list-style: none;
+    float: left;
+
+
+}
+.menu ul li a{
+    text-decoration: none;
+    padding: 10px 15px;
+    border: 0px solid #ccc;
+    color: #fff;;
+}
+.menu ul li a:hover{
+    background: #fff;
+    color: #006699;
+
+
+}
+#Imagen{
+    margin-top: 10px;
+    width: 900px;
+    height: 250px;
+
+}
+#categorias{
+    width: 900px;
+    height: auto;overflow: hidden;
+    border: 1px solid;
+    margin-top: 10px;
+
+
+}
+.caja{
+    width: 290px;
+    height: auto;overflow: hidden;
+    border: 1px solid;
+    float: left;
+    text-align: center;
+    
+
+}
+.uno{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.leer-mas{
+    text-decoration: none;
+    border: 1px solid #006699;
+    padding: 10px 20px 10px 20px;
+    margin: 10px;
+}
+.leer-mas{
+    background: #006699;
+    color:#fff;
+    transition: background 1s,color 1s;
+}
+#info{
+    width:900px ;
+    height: auto;overflow: hidden;
+    border: 0px solid #c0c0c0;
+}
+#izq{
+    width: 590px;
+    height: 300px;
+    border: 1px solid #000;
+    float: left;
+    padding: 5px;
+    text-align: center;
+    
+}
+#der{
+    width: 290px;
+    height: 300px;
+    border: 1px solid #000;
+    float: right;
+}
+footer{
+    width: 900px;
+    height: 100px;
+    text-align: center;
+}
+#footer p{
+    width: 500px;
+}
+.titulo{
+    font-size: 30px;
+    margin-top: 10px;
+}
+.subtitulo{
+    font-size: 14px;
+    margin-top: -20px;
+}
+
+
+
+
+
